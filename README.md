@@ -4,7 +4,6 @@ Imagine que você é um agente especial que possui a missão de interceptar mens
 
 <img src="../img/missao_morse.png" style="max-width:500px; "/>
 
-C:\Users\Giovanni\Desktop\code_morse\decode_morse\imgs\projetos\missao_morse.png
 Sua missão é:
 - Interceptar estas mensagens;
 - Decodificar, sabendo que as letras estão espaçadas por um espaço;
