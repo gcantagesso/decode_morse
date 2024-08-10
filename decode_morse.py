@@ -45,5 +45,5 @@ def save_clear_msg_csv_hdr(decoded_message):
     df.to_csv(file_path, mode ="a", index = False, header=hdr)
 
 if __name__ == "__main__":
-    decoded_message = decode_morse(sys.argv[1])
-    save_clear_msg_csv_hdr(decoded_message)
+    msg_entrada = decode_morse(sys.argv[1])
+    save_clear_msg_csv_hdr(msg_entrada)
